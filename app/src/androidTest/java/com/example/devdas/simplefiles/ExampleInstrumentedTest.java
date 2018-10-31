@@ -1,4 +1,4 @@
-package com.example.inika.simplefiles;
+package com.example.devdas.simplefiles;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

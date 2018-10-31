@@ -1,4 +1,4 @@
-package com.example.inika.simplefiles;
+package com.example.devdas.simplefiles;
 
 import org.junit.Test;
 
